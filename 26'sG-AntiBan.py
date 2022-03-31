@@ -6,7 +6,7 @@ import threading
 
 
 extension_info = {
-    "title": "W-GroupAntiBan",
+    "title": "26'sG-AntiBan",
     "description": "ab: on&off&cho ",
     "version": "0.2",
     "author": "funkydemir66"
